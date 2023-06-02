@@ -19,7 +19,7 @@
 #     uri: https://github.com/jsk-ros-pkg/jsk_robot.git
 #     version: master
 - git:
-    local-name: knorth55/eus_vive
+    local-name: ojh6404/eus_vive
     uri: https://github.com/knorth55/eus_vive.git
     version: master
 # need latest version
